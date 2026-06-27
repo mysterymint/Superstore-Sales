@@ -50,7 +50,7 @@ Segment slicer (Consumer, Corporate, Home Office)
 Region slicer (Africa, APAC, Canada, EU, EMEA, LATAM, US)
 Year slicer (2011, 2012, 2013, 2014)
 
-Business Insights
+Insights
 Technology is the best generating revenue
 The Technology category consistently generates the highest
 sales across all markets particularly in the APAC and US
